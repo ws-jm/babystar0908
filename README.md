@@ -1,17 +1,9 @@
 <h1 align="center">Igamez zhen</h1>
 <h3 align="center">A passionate Fullstack & Blockchain developer</h3>
 <img src="https://user-images.githubusercontent.com/7581348/177038557-8f9471ee-b17c-48be-b1c9-7a4ca0bd4858.gif" height="300px">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=babystar0908&label=Profile%20views&color=0e75b6&style=flat" alt="babystar0908" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=babystar0908&label=Profile%20views&color=0e75b6&style=flat" alt="babystar0908" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babystar0908" alt="babystar0908" /></a> </p>
-
-- 🔭 I’m currently working on [Casino Gaming Website](http://wybet.games/)
-
-- 🌱 I’m currently learning **Unity, Cocos 2d**
-
-- 💬 Ask me about **React, Node js , Blockchain**
-
-- 📫 How to reach me **it.team725@gmail.com**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babystar0908" alt="babystar0908" /></a> </p>
 
 <div>
   <h2>🛠Languages and Tools :</h2>
