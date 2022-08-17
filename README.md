@@ -27,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<h2>📊 GitHub Stats </h2>
+<h2>📊 GitHub Status </h2>
 <p>
 <img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=IchiroDaichi&layout=compact&theme=vision-friendly-white" >
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IchiroDaichi&layout=compact&theme=vision-friendly-white">
