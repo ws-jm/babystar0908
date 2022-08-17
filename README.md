@@ -29,8 +29,8 @@
 
 <h2>📊 GitHub Status </h2>
 <p>
-<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=IchiroDaichi&layout=compact&theme=vision-friendly-white" >
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IchiroDaichi&layout=compact&theme=vision-friendly-white">
+<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=babystar0908&layout=compact&theme=vision-friendly-white" >
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babystar0908&layout=compact&theme=vision-friendly-white">
 </p>
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
