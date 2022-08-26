@@ -1,4 +1,4 @@
-<h1 align="center">Igamez zhen</h1>
+<h1 align="center">Kaia Mayer</h1>
 <h3 align="center">A passionate Fullstack & Blockchain developer</h3>
 <img src="https://user-images.githubusercontent.com/7581348/177038557-8f9471ee-b17c-48be-b1c9-7a4ca0bd4858.gif" height="500px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babystar0908&label=Profile%20views&color=0e75b6&style=flat" alt="babystar0908" /> </p>
