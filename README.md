@@ -130,10 +130,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/babystar0908/babystar0908/blob/output/snake.svg" alt="Snake animation" />
-
-###
